@@ -1,0 +1,74 @@
+.body-principal{
+    text-align: center;
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(https://png.pngtree.com/background/20230422/original/pngtree-drink-bar-cafe-background-picture-image_2454554.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+}
+
+table {   
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(219, 172, 90, 0.9);
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+th, td {
+    padding: 10px; 
+    text-align: left;
+    border-bottom: 1px solid #f0e3e3; 
+}
+
+h2 {
+    margin-top: 30px; 
+    color: #444343; 
+}
+
+.container-pratos {
+    text-align: center;
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(219, 172, 90, 0.9);
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+.body-pratos {
+    background-color: rgb(189, 144, 89);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(https://i.pinimg.com/originals/36/97/2d/36972d3aa3e5f541fceaf2dbe1b99300.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+}
+
+.linkpratos:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
